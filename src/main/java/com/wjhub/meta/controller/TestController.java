@@ -1,4 +1,4 @@
-package cn.wjhub.meta_gpt_java.controller;
+package com.wjhub.meta.controller;
 
 import com.wjhub.meta.gpt.chatgpt.ChatGPT;
 import lombok.AllArgsConstructor;

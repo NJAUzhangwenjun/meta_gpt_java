@@ -1,4 +1,4 @@
-package cn.wjhub.meta_gpt_java;
+package com.wjhub.meta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

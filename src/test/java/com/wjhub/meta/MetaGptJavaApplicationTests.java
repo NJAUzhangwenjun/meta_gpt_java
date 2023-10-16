@@ -1,4 +1,4 @@
-package cn.wjhub.meta_gpt_java;
+package com.wjhub.meta;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

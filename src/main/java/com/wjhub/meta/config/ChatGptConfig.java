@@ -1,4 +1,4 @@
-package cn.wjhub.meta_gpt_java.config;
+package com.wjhub.meta.config;
 
 import com.wjhub.meta.gpt.chatgpt.ChatGPT;
 import org.springframework.beans.factory.annotation.Value;
